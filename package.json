@@ -1,5 +1,5 @@
 {
-  "name": "audiogram",
+  "name": "idea-logs podcast",
   "version": "0.9.5",
   "description": "Turn audio into a shareable video.",
   "main": "index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nypublicradio/audiogram.git"
+    "url": "https://github.com/brileyhughes/Idea-Logspodcast.git"
   },
   "keywords": [],
   "author": {
